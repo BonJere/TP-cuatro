@@ -5,9 +5,9 @@ body {
 
 .hijoverde, .hijoazul, #padresolo {
     border-radius: 12px 12px 12px 12px;
--webkit-border-radius: 12px 12px 12px 12px;
--moz-border-radius: 12px 12px 12px 12px;
-border: 2px dashed #000000;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    border: 2px dashed #000000;
 }
 
 .padre {

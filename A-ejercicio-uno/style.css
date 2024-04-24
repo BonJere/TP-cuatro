@@ -2,3 +2,18 @@ body {
     margin: 0;
     padding: 0;
 }
+div {
+
+    width: 150px;
+    background-color: aqua;
+    height: 150px; 
+    border-radius: 12px;
+    
+
+}
+
+#CABJ {
+flex-direction: column;
+
+
+}

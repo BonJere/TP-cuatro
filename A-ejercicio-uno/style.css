@@ -9,10 +9,25 @@ body {
     height: 150px; 
     border-radius: 12px;
     margin: 15px;
+    box-shadow: 0px 10px 5px 0px rgba(204,204,204,0.75);
+-webkit-box-shadow: 0px 10px 5px 0px rgba(204,204,204,0.75);
+-moz-box-shadow: 0px 10px 5px 0px rgba(204,204,204,0.75);
 }
 
 .padre {
     width: 100%;
     display: flex;
     flex-direction: row;
+}
+#hijo1{
+    background-color:#4499EE ;
+}
+#hijo2{
+    background-color:#EE4499 ;
+}
+#hijo3{
+    background-color:#99EE44 ;
+}
+#hijo4{
+    background-color: #EE9944;
 }
